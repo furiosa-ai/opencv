@@ -1,3 +1,5 @@
+> :warning: This repository aims to compile OpenCV 2.4.9 on Ubuntu 20.04/22.04. Run `./install.sh` to compile and `cd opencv_build; sudo make install` install OpenCV on your computer.
+
 ### OpenCV: Open Source Computer Vision Library
 
 [![Gittip](http://img.shields.io/gittip/OpenCV.png)](https://www.gittip.com/OpenCV/)
